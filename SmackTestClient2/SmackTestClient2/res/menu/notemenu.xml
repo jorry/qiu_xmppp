@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/mn_tall"
+        android:title="私聊">
+    </item>
+
+    <item
+        android:id="@+id/mn_Grant"
+        android:title="授权">
+    </item>
+
+    <item
+        android:id="@+id/mn_kick"
+        android:title="踢人">
+    </item>
+
+</menu>
